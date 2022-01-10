@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gacaro51597@gmail.com
+	name = Gaston Roxas
